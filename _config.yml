@@ -13,8 +13,12 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "In the end, we are all alone"
 sidebar-avatar: /img/D9B9F938-D658-4906-8661-F77D6992758B.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
-
+# SNS settings
+RSS: false
+weibo_username:     
+zhihu_username:     
+github_username: yy-ds
+facebook_username:  
 
 
 # Build settings
