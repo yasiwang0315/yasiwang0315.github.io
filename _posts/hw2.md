@@ -1,7 +1,13 @@
 ---
-title: "Simulation Error"
-output: jekyllthat::jekylldown
+layout:     post   				   
+title:      Simulation 				
+subtitle:   Hello World, Hello Blog 
+date:       2019-11-29			
+author:     BY Yilin 					
+header-img: img/post-bg-2015.jpg 	
+catalog: true 						
 ---
+
 
 Simulation generates approximate answers and there is some degree of
 error in a quantity estimated by Monte Carlo simulation. In this blog,
