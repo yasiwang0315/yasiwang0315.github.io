@@ -1,6 +1,11 @@
 ---
-title: "R Notebook"
-output: jekyllthat::jekylldown
+layout:     post   				   
+title:      test		
+subtitle:   Hello World, Hello Blog 
+date:       2019-12-2			
+author:     BY Yilin 					
+header-img: img/post-bg-2015.jpg 	
+catalog: true 						
 ---
 
 ``` r
