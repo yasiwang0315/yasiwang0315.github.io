@@ -1,24 +1,24 @@
 # Site settings
-title: Yilin Yang Blog
-SEOTitle: Yilin Yang
-header-img: img/CE45DFAA-AF7F-4E6E-82B5-799829044D32.jpeg
-email: yilinyang0619@gmail.com
-phone: (615)3195836
+title: Yasi Blog
+SEOTitle: Yasi Wang
+header-img: img/post-bg-desk.jpg
+email: yasi.wang.1@gmail.com
+phone: (615)3195166
 address: Nashviile, TN 37203
 description: "Every failure is leading towards success."
-url: "http://yy-ds.github.io"          # your host, for absolute URL
-github_repo: "https://github.com/yy-ds/yy-ds.github.io.git" # you code repository
+url: "http://yasiwang0315.github.io"          # your host, for absolute URL
+github_repo: "https://github.com/yasiwang0315/yasiwang0315.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "In the end, we are all alone"
-sidebar-avatar: /img/D9B9F938-D658-4906-8661-F77D6992758B.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/yasi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
 weibo_username:     
 zhihu_username:     
-github_username: yy-ds
+github_username: yasiwang0315
 facebook_username:  
 
 
@@ -46,7 +46,3 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
-
-
-
